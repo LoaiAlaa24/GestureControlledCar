@@ -1,4 +1,4 @@
-# GestureControlledCar
+# Gesture Controlled Car
 Gesture Controlled Car using Flex Sensors,H-Bridge, IR sensors and Arduino Board.
  - The code is implemented on Arduino IDE
 
